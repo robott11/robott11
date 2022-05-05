@@ -10,17 +10,15 @@ Hi, welcome to my profile. Hope you like it.
 
 ## Public information
 
-My name is Carlos. I study programming for about 3 years with PHP and Laravel. Recently i started doing tech college.
+My name is Carlos. I've been doing programming since my 13, and for the last 3 years i've been learning web development with PHP. Recently i started doing tech college.
 
-I love technology, programming, hacking, gaming and playing with linux. On my free time i really like to research and learn about these kinds stuff. And to play games aswell.
+I love technology, programming, hacking, gaming and playing with linux. On my free time i like to learn about tech and play games.
 
 ## Detailed information
 
 * **Name**: Carlos Henrique
 * **Age**: 18
-* **Living in**: Palhoça - SC, Brazil
 * **Stack**: PHP - Laravel - Bootstrap - MySQL
-* **University**: Analysis and Systems Development at Uniasselvi
 
 ## Curiosities about me
 
